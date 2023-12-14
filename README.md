@@ -16,6 +16,8 @@ Simple AgeGenderDetector  using ML
 
 2.Download dataset from [here](https://www.kaggle.com/jangedoo/utkface-new)
 
-3.Open the [Model jupyter notebook] (https://github.com/Arpitajoshi20/Age_Gender_Detector/blob/main/Model.ipynb)
+3.Extract the dataset to your repository folder.
 
-4.Run this notebook.
+4.Open the [Model jupyter notebook] (https://github.com/Arpitajoshi20/Age_Gender_Detector/blob/main/Model.ipynb)
+
+5.Run this notebook.
